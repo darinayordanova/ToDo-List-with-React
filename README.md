@@ -1,5 +1,16 @@
 ![](demo.gif)
 
+## A Simple To Do List App wth React
+
+=> You can create, list, edit and delete tasks.
+
+=> Each task has a name, notes, due date, labels and subtasks.
+
+=> You can also filter the compleated tasks.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
